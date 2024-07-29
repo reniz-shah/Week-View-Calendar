@@ -1,0 +1,13 @@
+.header{
+    min-height: 7vh !important;
+    background-color: #597E52 !important;
+    color: #FFFFEC !important;
+    /* margin-top: 0.5%; */
+    /* border-radius: 5px; */
+}
+
+.content{
+    min-height: 93vh !important;
+    background-color: #EEE7DA !important;
+    color: #2D3250 !important;
+}
