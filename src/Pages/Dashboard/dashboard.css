@@ -1,0 +1,27 @@
+.side-bar{
+    background-color: #FFFFEC !important; 
+    color: #2D3250 !important;
+}
+
+.Header{
+    background-color: #597E52; 
+    color: #FFFFEC
+}
+
+.menu-bar{
+    background-color: #FFFFEC; 
+    color: #2D3250
+}
+
+.collapse-btn{
+    margin-top: 20px;
+    width: 100% !important;
+    text-align: left; 
+    padding-left: 30px;
+}
+
+.expand-btn{
+    margin-top: 20px;
+    width: 100% !important;
+    text-align: center; 
+}

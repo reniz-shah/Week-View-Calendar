@@ -1,0 +1,33 @@
+.Header{
+    background-color: #fff;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.Content{
+    background-color: #e4e1e1;
+    /* text-align: center;
+    justify-content: space-evenly;
+    display: flex; */
+    height: 80vh;
+}
+
+.LoginFormContainer{
+    /* background-color: #ff8888; */
+    /* width: fit-content; */
+    height: 80vh;
+    /* padding: 20px;
+    display: inline-block;  
+    margin-top: 50px;
+    align-self: center; */
+
+    /* align-items: center; */
+}
+
+.Footer{
+    height: 10vh;
+
+}
